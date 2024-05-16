@@ -1,6 +1,13 @@
 # Capture the Humans
 ## Welcome to the Capture the Humans game repository!
 
+## Tech Stack
+
+- **Language**: C#
+- **Development Environment**: Visual Studio
+- **Game Engine**: Unity
+- **Pathfinding**: A* Algorithm
+
 ## About the Game
 Capture the Humans is an exciting and innovative game developed during a game jam event. Our team collaborated intensively to bring this unique concept to life. In the game, players aka zombies  navigate through challenging environments to capture humans, using strategic thinking and quick reflexes to succeed.There are currently three available games in the Capture the Humans but I plan to expand the game levels.
 
