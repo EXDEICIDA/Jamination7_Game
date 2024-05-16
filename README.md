@@ -15,4 +15,7 @@ This one is the first level we have designed:
 Also here second level design:
 ![Last 2 Screenshot](Game%20Photos/last2.png)
 
+## Capture the Humans
+
+Check out the game on [itch.io](https://xldeicida.itch.io/capture-the-humans)!
 
