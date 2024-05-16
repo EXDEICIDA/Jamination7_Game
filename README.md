@@ -8,5 +8,11 @@ Capture the Humans is an exciting and innovative game developed during a game ja
 Unique Gameplay Mechanics: Engage in gameplay that combines strategy and action, offering a fresh take on the capture-the-flag genre.
 Challenging Levels: Navigate through various levels, each with its own set of obstacles and challenges.
 
-## Dynamic Environments: Experience visually stunning and interactive environments as well as challenging levels.
+## Dynamic Environments:
+Experience visually stunning and interactive environments as well as challenging levels.
+This one is the first level we have designed:
+![Level 1 Screenshot](Game%20Photos/Level1.png)
+Also here second level design:
+![Last 2 Screenshot](Game%20Photos/last2.png)
+
 
